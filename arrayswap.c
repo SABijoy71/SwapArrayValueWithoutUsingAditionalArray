@@ -27,6 +27,5 @@ int main(void){
 		printf("%d ", ara[i]);
 	}
 
-
 	return 0;
 } 
